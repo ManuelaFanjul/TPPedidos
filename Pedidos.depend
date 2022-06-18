@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1655495073 source:c:\users\manuela-pc\desktop\tppedidos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
